@@ -32,14 +32,14 @@ body {
   color: rgb(0, 0, 0);
 }
 
-.child {
+.text {
   color: rgb(0, 0, 0);
-  font-weight: 800;
-  font-size: 14px;
+  font-size: 24px;
+  font-weight: 100;
 }
 
-div.text .text.child {
+.text.child {
   color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
+  font-size: 18px;
+  font-weight: bold;
 }
